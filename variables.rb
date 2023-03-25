@@ -8,7 +8,7 @@ dob = 07/13/1994
 account_balance = 1276.91
 distance_traveled = 78.5
 
-balance_paid = True
+balance_paid = true
 assignment_completed = false
 
 x = name
