@@ -11,9 +11,6 @@ distance_traveled = 78.5
 balance_paid = True
 assignment_completed = false
 
-name # "dayrae12"
-caption # "Am I doing this correctly??"
-
 puts I dont know if I did that correctly
 puts But I hope that I did
 puts I guess we will see soon enough!
